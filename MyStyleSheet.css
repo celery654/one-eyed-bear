@@ -1,0 +1,46 @@
+body{
+  background-color:lightblue;
+  font-family:"Times New Roman",Times,serif;
+  font-size:12pt;
+  color:forestgreen;
+text-align:center;
+}
+h1 {
+  display:inline-block;
+  background-color:pink;
+  font-size:40pt;
+  color:light green;
+  padding:5px 10px;
+  margin:20px auto;
+  text-align:center;
+}
+h2{
+ text-align: left;
+ background-color: lightblue;
+ color: purple;
+
+}
+img{
+  display:block;
+  float: left;
+  margin:0 15 px 15px 0;
+}
+p{
+ background-color:white;
+ font-family: "Time New Roman",Time,serif;
+ font-size:12pt;
+}
+p:shrt{
+  display:inline-blocks;
+  background-color:white;
+  width:600px;
+  padding: 5px 10px;
+  margin:10px 0;
+  text-align:center;
+}
+.row{
+  display:flex;
+  gap:20px;
+}
+li{
+     text-align:left;
